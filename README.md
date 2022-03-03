@@ -1,11 +1,18 @@
-# hafta1-odev2
 
-<strong>2-) Tic Tac Toe Uygulaması</strong>
+# TİC-TAC-TOE
+
+The first player to get 3 of his/her marks in a row (up, down, across, or diagonally) is the winner.
 
 
-3x3, 9 kutudan oluşan bir yapı tasarlanacak. 
-Yatay, dikey veya çapraz bir şekilde x-x-x veya o-o-o 3lüsü oluşturan taraf kazanan oyuncu olacak. 3lü oluşmazsa oyun berabere sonuçlanacak. Oyun sonucu bir metin ile bildirilmeli.
-(html,css ve javascript kullanılarak yapılacak)
-(querySelector ile html elementlerine erişim sağlayabilirsiniz)
-(style, classList ile stillerle oynayabilirsiniz)
-(addEventListener ile kullanıcı etkileşimlerini yakalayabilirsiniz)
+## Used technologies
+
+- JavaScript
+- HTML
+- CSS
+
+
+[Click for Tic Tac Toe](https://objective-albattani-083925.netlify.app) :raising_hand_woman:
+
+
+
+![Capture](https://user-images.githubusercontent.com/88663001/155511664-a5ccd8dd-914b-4847-964d-7bdeef5eb84e.PNG)
